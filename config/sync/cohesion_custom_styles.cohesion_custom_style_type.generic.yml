@@ -1,0 +1,7 @@
+uuid: a90c215a-c6fa-4acb-b1f0-a80882d1159b
+langcode: en
+status: true
+dependencies: {  }
+label: Generic
+id: generic
+element: null

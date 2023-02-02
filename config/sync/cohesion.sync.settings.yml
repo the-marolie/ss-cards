@@ -1,0 +1,25 @@
+enabled_entity_types:
+  cohesion_component: cohesion_component
+  cohesion_content_templates: cohesion_content_templates
+  cohesion_custom_style: cohesion_custom_style
+  cohesion_master_templates: cohesion_master_templates
+  cohesion_view_templates: cohesion_view_templates
+  cohesion_base_styles: '0'
+  cohesion_color: '0'
+  cohesion_component_category: '0'
+  cohesion_font_library: '0'
+  cohesion_font_stack: '0'
+  cohesion_helper: '0'
+  cohesion_helper_category: '0'
+  cohesion_icon_library: '0'
+  cohesion_menu_templates: '0'
+  cohesion_scss_variable: '0'
+  cohesion_style_guide: '0'
+  cohesion_style_guide_manager: '0'
+  cohesion_style_helper: '0'
+  cohesion_sync_package: '0'
+  cohesion_website_settings: '0'
+  image_style: '0'
+  view: '0'
+package_export_limit: 10
+full_export_limit: 10

@@ -1,0 +1,13 @@
+uuid: fea6651b-3de8-44ec-9e32-217274343885
+langcode: en
+status: false
+dependencies: {  }
+label: Body
+id: body
+json_values: '{}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0041
+locked: false
+modified: false
+selectable: false
+custom: null
