@@ -1,38 +1,38 @@
-uuid: 09801c6b-f1e9-47c5-8a30-c4b9dd1337c9
+uuid: 907bb1ff-f306-4955-bd27-0d2b8aa4cfe3
 langcode: en
 status: true
 dependencies: {  }
-id: pack_testimonial_slider
-label: 'Testimonial Slider'
+id: pack_image_slider
+label: 'Image Slider'
 description: ''
 excluded_entity_types: '[]'
 settings: |
   {
-      "719ecd64-9f51-49d1-b8bf-f8d631ffa3a5": {
+      "7590bfcd-7af4-4e3d-a9e0-b442699b1bf4": {
           "type": "cohesion_component",
           "items": {
-              "e396aeed-0cd7-4e9a-8571-54ec03d77f0e": {
-                  "type": "cohesion_color"
-              },
               "44d57d55-763f-4387-bef9-8bf41476961e": {
                   "type": "cohesion_color"
               },
-              "3f64f260-c2de-4d3c-a505-d298362d9395": {
+              "3b70f9f4-e90f-4a7f-93dd-72fa7c178761": {
+                  "type": "cohesion_color"
+              },
+              "4f832cd5-5a3d-4644-8f48-527d9485324e": {
                   "type": "cohesion_color"
               },
               "70ed2b13-d2df-43e1-8058-5db4e23ceca6": {
                   "type": "cohesion_color"
               },
-              "719ecd64-9f51-49d1-b8bf-f8d631ffa3a5": {
+              "7590bfcd-7af4-4e3d-a9e0-b442699b1bf4": {
                   "type": "cohesion_component"
               },
               "fa4d3549-dea7-4c9d-96d4-6e006924d716": {
                   "type": "cohesion_component_category"
               },
-              "5992d234-7297-4891-9ddd-f036fadc8e63": {
+              "ae673854-3151-4f1f-a258-2b0bf71da988": {
                   "type": "cohesion_custom_style"
               },
-              "8f8005f2-ebbe-4d8e-a90b-a4c576df569f": {
+              "47eb619e-28c5-4f1d-a515-d921efeb766c": {
                   "type": "cohesion_custom_style"
               },
               "f706272e-c6eb-45a2-927a-bfd47abe1c74": {
@@ -52,6 +52,18 @@ settings: |
               },
               "5ed2007b-4b44-469c-a156-999b8da4b05a": {
                   "type": "file"
+              },
+              "56814c31-733c-431c-ad47-8271d02ecc48": {
+                  "type": "image_style"
+              },
+              "7ffcea4f-a9de-43c7-832e-fa2e56e992b1": {
+                  "type": "image_style"
+              },
+              "db21bb35-6f11-4994-a2a1-3bc9132ff57d": {
+                  "type": "image_style"
+              },
+              "5e83e15f-09de-4990-98ab-a0989d171185": {
+                  "type": "image_style"
               }
           },
           "checked": true

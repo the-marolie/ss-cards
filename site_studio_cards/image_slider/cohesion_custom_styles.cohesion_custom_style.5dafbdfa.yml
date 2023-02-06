@@ -1,12 +1,13 @@
-uuid: 8f8005f2-ebbe-4d8e-a90b-a4c576df569f
+uuid: ae673854-3151-4f1f-a258-2b0bf71da988
 langcode: en
 status: true
 dependencies:
   config:
-    - cohesion_website_settings.cohesion_color.black
+    - cohesion_website_settings.cohesion_color.gray
+    - cohesion_website_settings.cohesion_color.gray-darker
     - cohesion_website_settings.cohesion_color.white
-label: 'Slider Pagination - dark'
-id: cdb5b703
+label: 'Slider Pagination - light'
+id: 5dafbdfa
 json_values: |
   {
       "preview": {
@@ -31,14 +32,13 @@ json_values: |
                           "value": {
                               "link": true,
                               "value": {
-                                  "hex": "#000000",
-                                  "rgba": "rgba(0, 0, 0, 1)"
+                                  "hex": "#c3c3c3",
+                                  "rgba": "rgba(195, 195, 195, 1)"
                               },
-                              "uid": "black",
-                              "name": "Black",
-                              "class": ".coh-color-black",
-                              "variable": "$coh-color-black",
-                              "inuse": true
+                              "uid": "gray",
+                              "name": "Gray",
+                              "class": ".coh-color-gray",
+                              "variable": "$coh-color-gray"
                           }
                       },
                       "height": {
@@ -65,14 +65,13 @@ json_values: |
                           "value": {
                               "link": true,
                               "value": {
-                                  "hex": "#000000",
-                                  "rgba": "rgba(0, 0, 0, 1)"
+                                  "hex": "#c3c3c3",
+                                  "rgba": "rgba(195, 195, 195, 1)"
                               },
-                              "uid": "black",
-                              "name": "Black",
-                              "class": ".coh-color-black",
-                              "variable": "$coh-color-black",
-                              "inuse": true
+                              "uid": "gray",
+                              "name": "Gray",
+                              "class": ".coh-color-gray",
+                              "variable": "$coh-color-gray"
                           }
                       },
                       "custom-css": [
@@ -132,6 +131,41 @@ json_values: |
               },
               "settings": {
                   "class": ".slick-active"
+              }
+          },
+          "43cdf5e6-28a5-44de-bd1b-a7ade1d4eed4": {
+              "styles": {
+                  "xl": {
+                      "background-color": {
+                          "value": {
+                              "link": true,
+                              "value": {
+                                  "hex": "#9b9a9b",
+                                  "rgba": "rgba(155, 154, 155, 1)"
+                              },
+                              "uid": "gray-darker",
+                              "name": "Gray-darker",
+                              "class": ".coh-color-gray-darker",
+                              "variable": "$coh-color-gray-darker"
+                          }
+                      },
+                      "border-color": {
+                          "value": {
+                              "link": true,
+                              "value": {
+                                  "hex": "#9b9a9b",
+                                  "rgba": "rgba(155, 154, 155, 1)"
+                              },
+                              "uid": "gray-darker",
+                              "name": "Gray-darker",
+                              "class": ".coh-color-gray-darker",
+                              "variable": "$coh-color-gray-darker"
+                          }
+                      }
+                  }
+              },
+              "settings": {
+                  "pseudo": ":hover"
               }
           }
       },
@@ -279,6 +313,89 @@ json_mapper: |
                                               {
                                                   "name": "background-color",
                                                   "active": true
+                                              }
+                                          ],
+                                          "breakpoints": [
+                                              {
+                                                  "name": "xl"
+                                              }
+                                          ]
+                                      }
+                                  ]
+                              }
+                          ]
+                      },
+                      {
+                          "title": ":hover",
+                          "type": "container",
+                          "items": [],
+                          "selectorType": "pseudo",
+                          "uuid": "43cdf5e6-28a5-44de-bd1b-a7ade1d4eed4",
+                          "allowedTypes": [
+                              "child",
+                              "pseudo"
+                          ],
+                          "formDefinition": [
+                              {
+                                  "formKey": "background",
+                                  "children": [
+                                      {
+                                          "formKey": "background-color",
+                                          "activeFields": [
+                                              {
+                                                  "name": "background-color",
+                                                  "active": true
+                                              }
+                                          ],
+                                          "breakpoints": [
+                                              {
+                                                  "name": "xl"
+                                              }
+                                          ]
+                                      }
+                                  ]
+                              },
+                              {
+                                  "formKey": "border-and-outline",
+                                  "children": [
+                                      {
+                                          "formKey": "border-color",
+                                          "activeFields": [
+                                              {
+                                                  "name": "border-color",
+                                                  "active": true
+                                              },
+                                              {
+                                                  "name": "border-top-color",
+                                                  "active": true
+                                              },
+                                              {
+                                                  "name": "border-bottom-color",
+                                                  "active": true
+                                              },
+                                              {
+                                                  "name": "border-left-color",
+                                                  "active": true
+                                              },
+                                              {
+                                                  "name": "border-right-color",
+                                                  "active": true
+                                              },
+                                              {
+                                                  "name": "border-block-start-color",
+                                                  "active": false
+                                              },
+                                              {
+                                                  "name": "border-block-end-color",
+                                                  "active": false
+                                              },
+                                              {
+                                                  "name": "border-inline-start-color",
+                                                  "active": false
+                                              },
+                                              {
+                                                  "name": "border-inline-end-color",
+                                                  "active": false
                                               }
                                           ],
                                           "breakpoints": [
@@ -659,7 +776,7 @@ last_entity_update: entityupdate_0041
 locked: false
 modified: true
 selectable: true
-class_name: .coh-style-testimonial-slider
+class_name: .coh-style-slider-pagination---light
 custom_style_type: slider-pagination
 available_in_wysiwyg: false
 available_in_wysiwyg_inline: false
