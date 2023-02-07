@@ -2,6 +2,8 @@ _core:
   default_config_hash: R4IF-ClDHXxblLcG0L7MgsLvfBIMAvi_skumNFQwkDc
 module:
   admin_toolbar: 0
+  admin_toolbar_search: 0
+  admin_toolbar_tools: 0
   automated_cron: 0
   big_pipe: 0
   block: 0
@@ -28,6 +30,9 @@ module:
   dynamic_page_cache: 0
   editor: 0
   entity_reference_revisions: 0
+  facets: 0
+  facets_rest: 0
+  facets_searchbox_widget: 0
   field: 0
   field_ui: 0
   file: 0
@@ -54,6 +59,8 @@ module:
   realistic_dummy_content_api: 0
   rest: 0
   search: 0
+  search_api: 0
+  search_api_db: 0
   serialization: 0
   shortcut: 0
   sitestudio_page_builder: 0
@@ -66,6 +73,14 @@ module:
   update: 0
   user: 0
   views_ui: 0
+  webform: 0
+  webform_access: 0
+  webform_demo_region_contact: 0
+  webform_devel: 0
+  webform_example_custom_form: 0
+  webform_node: 0
+  webform_templates: 0
+  webform_ui: 0
   views: 10
   standard: 1000
 theme:

@@ -1,0 +1,18 @@
+uuid: a7af8b94-ae77-49f0-b3d4-d54c569cfb41
+langcode: en
+status: false
+dependencies: {  }
+label: 'Teaser (Node, Webform)'
+id: node_webform_teaser
+json_values: '{"canvas":[],"mapper":null,"model":[]}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0041
+modified: false
+selectable: false
+custom: false
+twig_template: null
+default: false
+entity_type: node
+bundle: webform
+view_mode: teaser
+master_template: ''

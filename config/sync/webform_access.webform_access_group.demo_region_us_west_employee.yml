@@ -1,0 +1,13 @@
+uuid: 80c3ef7a-6c83-48ee-b476-3dd4d5abc1a9
+langcode: en
+status: true
+dependencies: {  }
+id: demo_region_us_west_employee
+label: 'United States: West: Employee'
+description: null
+type: demo_region_employee
+permissions:
+  - view_any
+  - update_any
+emails:
+  - demo_region_employee@test.com

@@ -1,0 +1,14 @@
+uuid: 32bd8c60-ea49-4a09-ab85-d0c6263f6c44
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.demo_region_admin
+  module:
+    - user
+id: user_add_role_action.demo_region_admin
+label: 'Add the Demo region admin role to the selected user(s)'
+type: user
+plugin: user_add_role_action
+configuration:
+  rid: demo_region_admin

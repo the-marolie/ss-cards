@@ -1,0 +1,16 @@
+uuid: 8b60539a-f237-4ea8-a1ab-fb63252c463a
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+    - toolbar
+    - webform
+id: demo_region_admin
+label: 'Demo region admin'
+weight: 4
+is_admin: null
+permissions:
+  - 'access toolbar'
+  - 'access webform overview'
+  - 'view the administration theme'

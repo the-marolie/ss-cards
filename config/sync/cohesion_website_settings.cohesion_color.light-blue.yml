@@ -1,0 +1,13 @@
+uuid: 3ed34d6e-e867-4cd0-83a7-bc3ca3f9e576
+langcode: en
+status: true
+dependencies: {  }
+label: 'Light blue'
+id: light-blue
+json_values: '{"link":true,"value":{"value":{"hex":"#f0faff","rgba":"rgba(240, 250, 255, 1)"}},"uid":"light-blue","name":"Light blue","class":".coh-color-light-blue","variable":"$coh-color-light-blue"}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0041
+locked: false
+modified: true
+selectable: true
+weight: 8

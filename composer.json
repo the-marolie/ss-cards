@@ -27,7 +27,10 @@
         "drupal/core-project-message": "^10.0",
         "drupal/core-recommended": "^10.0",
         "drupal/devel": "^5.1",
+        "drupal/facets": "^2.0",
         "drupal/oembed_lazyload": "^2.0",
+        "drupal/search_api": "^1.28",
+        "drupal/webform": "^6.2@beta",
         "drush/drush": "^11.4"
     },
     "conflict": {
