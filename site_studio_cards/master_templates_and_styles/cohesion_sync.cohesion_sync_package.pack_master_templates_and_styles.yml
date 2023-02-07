@@ -1,0 +1,344 @@
+uuid: 4556933d-cb42-45f0-8333-ec66fc9e3750
+langcode: en
+status: true
+dependencies: {  }
+id: pack_master_templates_and_styles
+label: 'Master templates and styles'
+description: ''
+excluded_entity_types: '[]'
+settings: |
+  {
+      "41a2653d-3950-4d3c-89d2-a8d86a647837": {
+          "type": "cohesion_base_styles",
+          "items": {
+              "41a2653d-3950-4d3c-89d2-a8d86a647837": {
+                  "type": "cohesion_base_styles"
+              },
+              "e8b93ab6-f6ac-49bb-99ec-e24d8cb08bef": {
+                  "type": "cohesion_font_stack"
+              }
+          },
+          "checked": true
+      },
+      "e389f319-871a-4716-a37c-1d2971475a53": {
+          "type": "cohesion_base_styles",
+          "items": {
+              "e389f319-871a-4716-a37c-1d2971475a53": {
+                  "type": "cohesion_base_styles"
+              },
+              "e8b93ab6-f6ac-49bb-99ec-e24d8cb08bef": {
+                  "type": "cohesion_font_stack"
+              }
+          },
+          "checked": true
+      },
+      "425fcf8e-363b-492a-a3ec-8f36f9a8029b": {
+          "type": "cohesion_base_styles",
+          "items": {
+              "425fcf8e-363b-492a-a3ec-8f36f9a8029b": {
+                  "type": "cohesion_base_styles"
+              },
+              "e8b93ab6-f6ac-49bb-99ec-e24d8cb08bef": {
+                  "type": "cohesion_font_stack"
+              }
+          },
+          "checked": true
+      },
+      "0904b162-8106-4b76-ae6f-10ca9a7856fd": {
+          "type": "cohesion_base_styles",
+          "items": {
+              "0904b162-8106-4b76-ae6f-10ca9a7856fd": {
+                  "type": "cohesion_base_styles"
+              },
+              "e8b93ab6-f6ac-49bb-99ec-e24d8cb08bef": {
+                  "type": "cohesion_font_stack"
+              }
+          },
+          "checked": true
+      },
+      "bcad0edc-deaf-4231-9c2a-29c3dad10dd3": {
+          "type": "cohesion_base_styles",
+          "items": {
+              "bcad0edc-deaf-4231-9c2a-29c3dad10dd3": {
+                  "type": "cohesion_base_styles"
+              },
+              "e8b93ab6-f6ac-49bb-99ec-e24d8cb08bef": {
+                  "type": "cohesion_font_stack"
+              }
+          },
+          "checked": true
+      },
+      "75f3e5f7-eb79-4470-acb1-890b19c504a8": {
+          "type": "cohesion_base_styles",
+          "items": {
+              "75f3e5f7-eb79-4470-acb1-890b19c504a8": {
+                  "type": "cohesion_base_styles"
+              },
+              "e8b93ab6-f6ac-49bb-99ec-e24d8cb08bef": {
+                  "type": "cohesion_font_stack"
+              }
+          },
+          "checked": true
+      },
+      "e396aeed-0cd7-4e9a-8571-54ec03d77f0e": {
+          "type": "cohesion_color",
+          "items": {
+              "e396aeed-0cd7-4e9a-8571-54ec03d77f0e": {
+                  "type": "cohesion_color"
+              }
+          },
+          "checked": true
+      },
+      "c18ea6f2-1f8b-439f-b2a1-23b98a348844": {
+          "type": "cohesion_color",
+          "items": {
+              "c18ea6f2-1f8b-439f-b2a1-23b98a348844": {
+                  "type": "cohesion_color"
+              }
+          },
+          "checked": true
+      },
+      "3b70f9f4-e90f-4a7f-93dd-72fa7c178761": {
+          "type": "cohesion_color",
+          "items": {
+              "3b70f9f4-e90f-4a7f-93dd-72fa7c178761": {
+                  "type": "cohesion_color"
+              }
+          },
+          "checked": true
+      },
+      "4f832cd5-5a3d-4644-8f48-527d9485324e": {
+          "type": "cohesion_color",
+          "items": {
+              "4f832cd5-5a3d-4644-8f48-527d9485324e": {
+                  "type": "cohesion_color"
+              }
+          },
+          "checked": true
+      },
+      "3ed34d6e-e867-4cd0-83a7-bc3ca3f9e576": {
+          "type": "cohesion_color",
+          "items": {
+              "3ed34d6e-e867-4cd0-83a7-bc3ca3f9e576": {
+                  "type": "cohesion_color"
+              }
+          },
+          "checked": true
+      },
+      "177aa66a-69e3-40c6-a96e-61fe526b2f6f": {
+          "type": "cohesion_color",
+          "items": {
+              "177aa66a-69e3-40c6-a96e-61fe526b2f6f": {
+                  "type": "cohesion_color"
+              }
+          },
+          "checked": true
+      },
+      "3f64f260-c2de-4d3c-a505-d298362d9395": {
+          "type": "cohesion_color",
+          "items": {
+              "3f64f260-c2de-4d3c-a505-d298362d9395": {
+                  "type": "cohesion_color"
+              }
+          },
+          "checked": true
+      },
+      "70ed2b13-d2df-43e1-8058-5db4e23ceca6": {
+          "type": "cohesion_color",
+          "items": {
+              "70ed2b13-d2df-43e1-8058-5db4e23ceca6": {
+                  "type": "cohesion_color"
+              }
+          },
+          "checked": true
+      },
+      "8ea23c61-26b4-471f-ab5d-716253259043": {
+          "type": "cohesion_color",
+          "items": {
+              "8ea23c61-26b4-471f-ab5d-716253259043": {
+                  "type": "cohesion_color"
+              }
+          },
+          "checked": true
+      },
+      "44d57d55-763f-4387-bef9-8bf41476961e": {
+          "type": "cohesion_color",
+          "items": {
+              "44d57d55-763f-4387-bef9-8bf41476961e": {
+                  "type": "cohesion_color"
+              }
+          },
+          "checked": true
+      },
+      "fa4d3549-dea7-4c9d-96d4-6e006924d716": {
+          "type": "cohesion_component_category",
+          "items": {
+              "fa4d3549-dea7-4c9d-96d4-6e006924d716": {
+                  "type": "cohesion_component_category"
+              }
+          },
+          "checked": true
+      },
+      "fc843933-89c7-46de-ba23-cba9b6f21275": {
+          "type": "cohesion_component_category",
+          "items": {
+              "fc843933-89c7-46de-ba23-cba9b6f21275": {
+                  "type": "cohesion_component_category"
+              }
+          },
+          "checked": true
+      },
+      "0a0d2d17-52d0-49dd-bb98-4a9f0e271539": {
+          "type": "cohesion_component_category",
+          "items": {
+              "0a0d2d17-52d0-49dd-bb98-4a9f0e271539": {
+                  "type": "cohesion_component_category"
+              }
+          },
+          "checked": true
+      },
+      "6ab0ec11-716d-479a-9222-402c2f7283f4": {
+          "type": "cohesion_custom_style",
+          "items": {
+              "6ab0ec11-716d-479a-9222-402c2f7283f4": {
+                  "type": "cohesion_custom_style"
+              }
+          },
+          "checked": true
+      },
+      "5992d234-7297-4891-9ddd-f036fadc8e63": {
+          "type": "cohesion_custom_style",
+          "items": {
+              "5992d234-7297-4891-9ddd-f036fadc8e63": {
+                  "type": "cohesion_custom_style"
+              }
+          },
+          "checked": true
+      },
+      "cb79f7bb-060b-4c38-9685-2904a4691290": {
+          "type": "cohesion_custom_style",
+          "items": {
+              "cb79f7bb-060b-4c38-9685-2904a4691290": {
+                  "type": "cohesion_custom_style"
+              }
+          },
+          "checked": true
+      },
+      "3a91bd93-5a8f-42a1-807d-935d23bd6f57": {
+          "type": "cohesion_custom_style",
+          "items": {
+              "3a91bd93-5a8f-42a1-807d-935d23bd6f57": {
+                  "type": "cohesion_custom_style"
+              }
+          },
+          "checked": true
+      },
+      "0cd101a7-1fc8-4100-b50a-89475a5d302a": {
+          "type": "cohesion_custom_style",
+          "items": {
+              "44d57d55-763f-4387-bef9-8bf41476961e": {
+                  "type": "cohesion_color"
+              },
+              "c18ea6f2-1f8b-439f-b2a1-23b98a348844": {
+                  "type": "cohesion_color"
+              },
+              "e396aeed-0cd7-4e9a-8571-54ec03d77f0e": {
+                  "type": "cohesion_color"
+              },
+              "0cd101a7-1fc8-4100-b50a-89475a5d302a": {
+                  "type": "cohesion_custom_style"
+              },
+              "e8b93ab6-f6ac-49bb-99ec-e24d8cb08bef": {
+                  "type": "cohesion_font_stack"
+              },
+              "bbd647ac-229d-40a5-b288-f17f61fe83bd": {
+                  "type": "cohesion_icon_library"
+              },
+              "2fc9ebdb-73e6-4ff1-823b-a5b6cb4a1f3f": {
+                  "type": "file"
+              },
+              "3cb78e9d-ece1-4e06-af64-9c35bca5968a": {
+                  "type": "file"
+              },
+              "51b18abc-35ac-4e58-b277-b0dd42205e38": {
+                  "type": "file"
+              },
+              "5ed2007b-4b44-469c-a156-999b8da4b05a": {
+                  "type": "file"
+              }
+          },
+          "checked": true
+      },
+      "47eb619e-28c5-4f1d-a515-d921efeb766c": {
+          "type": "cohesion_custom_style",
+          "items": {
+              "44d57d55-763f-4387-bef9-8bf41476961e": {
+                  "type": "cohesion_color"
+              },
+              "3b70f9f4-e90f-4a7f-93dd-72fa7c178761": {
+                  "type": "cohesion_color"
+              },
+              "47eb619e-28c5-4f1d-a515-d921efeb766c": {
+                  "type": "cohesion_custom_style"
+              },
+              "bbd647ac-229d-40a5-b288-f17f61fe83bd": {
+                  "type": "cohesion_icon_library"
+              },
+              "2fc9ebdb-73e6-4ff1-823b-a5b6cb4a1f3f": {
+                  "type": "file"
+              },
+              "3cb78e9d-ece1-4e06-af64-9c35bca5968a": {
+                  "type": "file"
+              },
+              "51b18abc-35ac-4e58-b277-b0dd42205e38": {
+                  "type": "file"
+              },
+              "5ed2007b-4b44-469c-a156-999b8da4b05a": {
+                  "type": "file"
+              }
+          },
+          "checked": true
+      },
+      "8f8005f2-ebbe-4d8e-a90b-a4c576df569f": {
+          "type": "cohesion_custom_style",
+          "items": {
+              "e396aeed-0cd7-4e9a-8571-54ec03d77f0e": {
+                  "type": "cohesion_color"
+              },
+              "44d57d55-763f-4387-bef9-8bf41476961e": {
+                  "type": "cohesion_color"
+              },
+              "8f8005f2-ebbe-4d8e-a90b-a4c576df569f": {
+                  "type": "cohesion_custom_style"
+              }
+          },
+          "checked": true
+      },
+      "ae673854-3151-4f1f-a258-2b0bf71da988": {
+          "type": "cohesion_custom_style",
+          "items": {
+              "3b70f9f4-e90f-4a7f-93dd-72fa7c178761": {
+                  "type": "cohesion_color"
+              },
+              "44d57d55-763f-4387-bef9-8bf41476961e": {
+                  "type": "cohesion_color"
+              },
+              "4f832cd5-5a3d-4644-8f48-527d9485324e": {
+                  "type": "cohesion_color"
+              },
+              "ae673854-3151-4f1f-a258-2b0bf71da988": {
+                  "type": "cohesion_custom_style"
+              }
+          },
+          "checked": true
+      },
+      "ba55c3fa-01d2-4d3b-ae69-05046caa8f25": {
+          "type": "cohesion_master_templates",
+          "items": {
+              "ba55c3fa-01d2-4d3b-ae69-05046caa8f25": {
+                  "type": "cohesion_master_templates"
+              }
+          },
+          "checked": true
+      }
+  }

@@ -1,0 +1,31 @@
+uuid: 57462b3a-ff2b-4644-9616-3055d624a2cb
+langcode: en
+status: true
+dependencies:
+  config:
+    - webform.webform.contact
+  module:
+    - cohesion
+    - webform
+  theme:
+    - cohesion_child_theme
+id: cohesion_child_theme_webform
+theme: cohesion_child_theme
+region: dx8_hidden
+weight: 0
+provider: null
+plugin: webform_block
+settings:
+  id: webform_block
+  label: Webform
+  label_display: '0'
+  provider: webform
+  webform_id: contact
+  default_data: ''
+  redirect: false
+  lazy: false
+visibility:
+  cohesion_master_template:
+    id: cohesion_master_template
+    using_master_template: 0
+    negate: false

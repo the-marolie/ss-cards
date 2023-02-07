@@ -4,7 +4,7 @@ status: true
 dependencies: {  }
 label: 'Master template'
 id: master_template
-json_values: '{"canvas":[{"type":"item","uid":"drupal-region","title":"Region","status":{"collapsed":true},"iconColor":"drupal","uuid":"34403de5-b84e-463e-82fb-a1678de190a8","parentUid":"root","children":[]}],"mapper":{"34403de5-b84e-463e-82fb-a1678de190a8":{"settings":{"formDefinition":[{"formKey":"region-settings","children":[{"formKey":"region-type","breakpoints":[],"activeFields":[{"name":"type","active":true}]}]}],"selectorType":"topLevel","form":null,"items":[],"title":"Default"}}},"model":{"34403de5-b84e-463e-82fb-a1678de190a8":{"settings":{"title":"Region","region":{"theme":"cohesion_theme","type":"content"}}}},"previewModel":{"34403de5-b84e-463e-82fb-a1678de190a8":{}},"variableFields":{"34403de5-b84e-463e-82fb-a1678de190a8":[]},"meta":{"fieldHistory":[]}}'
+json_values: '{"canvas":[{"type":"item","uid":"drupal-region","title":"Region","status":{"collapsed":true},"iconColor":"drupal","uuid":"34403de5-b84e-463e-82fb-a1678de190a8","parentUid":"root","children":[]}],"mapper":{"34403de5-b84e-463e-82fb-a1678de190a8":{"settings":{"formDefinition":[{"formKey":"region-settings","children":[{"formKey":"region-type","breakpoints":[],"activeFields":[{"name":"type","active":true}]}]}],"selectorType":"topLevel","form":null,"items":[],"title":"Default"}}},"model":{"34403de5-b84e-463e-82fb-a1678de190a8":{"settings":{"title":"Region","region":{"theme":"cohesion_child_theme","type":"content"}}}},"previewModel":{"34403de5-b84e-463e-82fb-a1678de190a8":{}},"variableFields":{"34403de5-b84e-463e-82fb-a1678de190a8":[]},"meta":{"fieldHistory":[]}}'
 json_mapper: '{}'
 last_entity_update: entityupdate_0041
 locked: false

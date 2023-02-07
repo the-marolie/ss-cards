@@ -1,0 +1,29 @@
+uuid: eb52057a-96ac-43ff-bc6a-c0ba041d752c
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.articles_landing
+  module:
+    - cohesion
+    - views
+  theme:
+    - cohesion_child_theme
+id: cohesion_child_theme_views_block__articles_landing_block_1
+theme: cohesion_child_theme
+region: dx8_hidden
+weight: 0
+provider: null
+plugin: 'views_block:articles_landing-block_1'
+settings:
+  id: 'views_block:articles_landing-block_1'
+  label: ''
+  label_display: '0'
+  provider: views
+  views_label: ''
+  items_per_page: none
+visibility:
+  cohesion_master_template:
+    id: cohesion_master_template
+    using_master_template: 0
+    negate: false

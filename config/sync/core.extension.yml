@@ -30,6 +30,7 @@ module:
   dynamic_page_cache: 0
   editor: 0
   entity_reference_revisions: 0
+  example_custom_component: 0
   facets: 0
   facets_rest: 0
   facets_searchbox_widget: 0
@@ -88,4 +89,5 @@ theme:
   claro: 0
   stable: 0
   cohesion_theme: 0
+  cohesion_child_theme: 0
 profile: standard

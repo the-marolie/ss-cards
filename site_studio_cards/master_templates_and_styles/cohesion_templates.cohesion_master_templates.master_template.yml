@@ -52,7 +52,7 @@ json_values: |
               "settings": {
                   "title": "Region",
                   "region": {
-                      "theme": "cohesion_theme",
+                      "theme": "cohesion_child_theme",
                       "type": "content"
                   }
               }
