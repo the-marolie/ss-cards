@@ -1,0 +1,20 @@
+uuid: b01a7e12-4e5e-4a89-ad17-c0d1eaa038e2
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+    - text
+id: node.field_article_tagline
+field_name: field_article_tagline
+entity_type: node
+type: text
+settings:
+  max_length: 60
+module: text
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

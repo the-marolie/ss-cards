@@ -1,0 +1,9 @@
+uuid: b857a218-08fc-4b46-8950-097d9c3a457f
+langcode: en
+status: true
+dependencies: {  }
+id: pack_custom_hero_component
+label: 'Custom Hero Component'
+description: ''
+excluded_entity_types: '[]'
+settings: '{"86dd6404-d56f-4fd1-9ef7-60ae0d051d8f":{"type":"cohesion_component","items":{"44d57d55-763f-4387-bef9-8bf41476961e":{"type":"cohesion_color"},"86dd6404-d56f-4fd1-9ef7-60ae0d051d8f":{"type":"cohesion_component"},"fc843933-89c7-46de-ba23-cba9b6f21275":{"type":"cohesion_component_category"},"3a91bd93-5a8f-42a1-807d-935d23bd6f57":{"type":"cohesion_custom_style"},"6ab0ec11-716d-479a-9222-402c2f7283f4":{"type":"cohesion_custom_style"},"cb79f7bb-060b-4c38-9685-2904a4691290":{"type":"cohesion_custom_style"},"e8b93ab6-f6ac-49bb-99ec-e24d8cb08bef":{"type":"cohesion_font_stack"}},"checked":true},"3a91bd93-5a8f-42a1-807d-935d23bd6f57":{"type":"cohesion_custom_style","items":{"3a91bd93-5a8f-42a1-807d-935d23bd6f57":{"type":"cohesion_custom_style"}},"checked":true},"cb79f7bb-060b-4c38-9685-2904a4691290":{"type":"cohesion_custom_style","items":{"cb79f7bb-060b-4c38-9685-2904a4691290":{"type":"cohesion_custom_style"}},"checked":true}}'
