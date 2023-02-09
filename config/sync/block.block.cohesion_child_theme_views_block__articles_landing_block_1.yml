@@ -12,7 +12,7 @@ dependencies:
 id: cohesion_child_theme_views_block__articles_landing_block_1
 theme: cohesion_child_theme
 region: dx8_hidden
-weight: 0
+weight: -8
 provider: null
 plugin: 'views_block:articles_landing-block_1'
 settings:

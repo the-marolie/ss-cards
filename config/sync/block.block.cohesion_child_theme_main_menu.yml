@@ -12,8 +12,8 @@ _core:
   default_config_hash: KWAiziL39uEzmOJEql_wbUP2RtqGceL3WM2CfxhMelE
 id: cohesion_child_theme_main_menu
 theme: cohesion_child_theme
-region: header
-weight: 0
+region: dx8_hidden
+weight: -5
 provider: null
 plugin: 'system_menu_block:main'
 settings:

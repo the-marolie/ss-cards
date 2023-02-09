@@ -71,7 +71,7 @@ elements: |-
         '#type': webform_actions
         '#title': 'Submit button(s)'
         '#submit__label': 'Send message'
-css: ".cform-container {\r\n  max-width: 600px;\r\n}\r\n.cform-container .cform-row {\r\n  display: flex;\r\n  justify-content: space-between;\r\n  align-items: center;\r\n  margin-bottom: 15px;\r\n}\r\n.cform-container input {\r\n  width: 100%;\r\n  padding: 10px;\r\n  display: inline-flex;\r\n  border: 1px solid #000;\r\n}\r\n.cform-container input[type=submit] {\r\n  width: 200px;\r\n  background: #004474;\r\n  color: #fff;\r\n  outline: 0;\r\n  border: 0;\r\n  text-align: center;\r\n}\r\n.cform-container label {\r\n  margin-bottom: 8px;\r\n  display: inline-flex;\r\n}\r\n.cform-container .js-form-item {\r\n  display: flex;\r\n  flex-direction: column;\r\n}"
+css: "textarea {\r\n  width:100%;\r\n}\r\n.cform-container {\r\n  max-width: 600px;\r\n}\r\n.cform-container .cform-row {\r\n  display: flex;\r\n  justify-content: space-between;\r\n  align-items: center;\r\n  margin-bottom: 15px;\r\n}\r\n.cform-container input {\r\n  width: 100%;\r\n  padding: 10px;\r\n  display: inline-flex;\r\n  border: 1px solid #000;\r\n}\r\n.cform-container input[type=submit] {\r\n  width: 200px;\r\n  background: #004474;\r\n  color: #fff;\r\n  outline: 0;\r\n  border: 0;\r\n  text-align: center;\r\n}\r\n.cform-container label {\r\n  margin-bottom: 8px;\r\n  display: inline-flex;\r\n}\r\n.cform-container .js-form-item {\r\n  display: flex;\r\n  flex-direction: column;\r\n}"
 javascript: ''
 settings:
   ajax: false

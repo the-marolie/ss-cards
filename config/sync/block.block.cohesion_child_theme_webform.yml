@@ -12,7 +12,7 @@ dependencies:
 id: cohesion_child_theme_webform
 theme: cohesion_child_theme
 region: dx8_hidden
-weight: 0
+weight: -7
 provider: null
 plugin: webform_block
 settings:
