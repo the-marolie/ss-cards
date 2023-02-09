@@ -21,4 +21,4 @@ has_quick_edit: null
 entity_type_access: {  }
 bundle_access: {  }
 twig_template: component--cohesion-cpt-image-hotspots
-weight: 0
+weight: 3

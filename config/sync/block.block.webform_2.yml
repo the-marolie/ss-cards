@@ -1,15 +1,15 @@
-uuid: 57462b3a-ff2b-4644-9616-3055d624a2cb
+uuid: aa58b35f-e09e-4401-bbdd-47970119e95d
 langcode: en
 status: true
 dependencies:
   config:
-    - webform.webform.contact
+    - webform.webform.feedback_form
   module:
     - cohesion
     - webform
   theme:
     - cohesion_child_theme
-id: cohesion_child_theme_webform
+id: webform_2
 theme: cohesion_child_theme
 region: dx8_hidden
 weight: 0
@@ -17,10 +17,10 @@ provider: null
 plugin: webform_block
 settings:
   id: webform_block
-  label: 'Webform Contact Form'
+  label: 'Webform Feedback Form'
   label_display: '0'
   provider: webform
-  webform_id: contact
+  webform_id: feedback_form
   default_data: ''
   redirect: false
   lazy: false

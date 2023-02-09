@@ -27,4 +27,4 @@ has_quick_edit: null
 entity_type_access: {  }
 bundle_access: {  }
 twig_template: component--cohesion-cpt-image-slider
-weight: 0
+weight: 4

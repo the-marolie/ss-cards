@@ -20,4 +20,4 @@ has_quick_edit: null
 entity_type_access: {  }
 bundle_access: {  }
 twig_template: component--cohesion-cpt-contact-form-with-google-map
-weight: 0
+weight: 2
