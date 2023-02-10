@@ -1,0 +1,19 @@
+uuid: 519b8817-714e-4213-8908-9010287084b0
+langcode: en
+status: true
+dependencies:
+  config:
+    - cohesion_style_guide.cohesion_style_guide.default_button
+    - cohesion_website_settings.cohesion_color.black
+    - cohesion_website_settings.cohesion_color.blue
+    - cohesion_website_settings.cohesion_font_stack.roboto
+label: 'Default button Site Studio Child Theme'
+id: f52e7d68-9603-46e6-8f2e-e7fddf83ab5ecohesion_child_theme
+json_values: '{"model":{"f52e7d68-9603-46e6-8f2e-e7fddf83ab5e":{"71920dfd-6de3-4aee-be3a-2554142f8676":"15","59827b24-7935-426c-919d-cbd93c52efbf":"$coh-font-roboto","95d8d9e5-5f91-4621-b60e-9d58b9a9e643":{"link":true,"value":{"hex":"#000000","rgba":"rgba(0, 0, 0, 1)"},"uid":"black","name":"Black","class":".coh-color-black","variable":"$coh-color-black","inuse":true},"3762dedb-eadb-4a40-b0ff-7f0e8b99e158":{"link":true,"value":{"hex":"#235d9c","rgba":"rgba(35, 93, 156, 1)"},"uid":"blue","name":"Blue","class":".coh-color-blue","variable":"$coh-color-blue","inuse":true},"ac78f62c-db07-4376-88b8-7bacc4477166":"20"}},"changedFields":["model.f52e7d68-9603-46e6-8f2e-e7fddf83ab5e.71920dfd-6de3-4aee-be3a-2554142f8676","model.f52e7d68-9603-46e6-8f2e-e7fddf83ab5e.59827b24-7935-426c-919d-cbd93c52efbf","model.f52e7d68-9603-46e6-8f2e-e7fddf83ab5e.95d8d9e5-5f91-4621-b60e-9d58b9a9e643","model.f52e7d68-9603-46e6-8f2e-e7fddf83ab5e.3762dedb-eadb-4a40-b0ff-7f0e8b99e158","model.f52e7d68-9603-46e6-8f2e-e7fddf83ab5e.ac78f62c-db07-4376-88b8-7bacc4477166"]}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0041
+locked: false
+modified: false
+selectable: true
+theme: cohesion_child_theme
+style_guide_uuid: f52e7d68-9603-46e6-8f2e-e7fddf83ab5e

@@ -1,0 +1,21 @@
+uuid: 8ac64203-ec0a-4af0-a450-13b3394295a1
+langcode: en
+status: true
+dependencies:
+  config:
+    - cohesion_elements.cohesion_component_category.cpt_cat_uncategorized
+label: 'Simple button'
+id: cpt_simple_button
+json_values: '{"canvas":[{"type":"container","uid":"button","title":"Button","status":{"collapsed":true},"iconColor":"interactive","uuid":"720274d4-94ac-4515-a625-0240f697209f","parentUid":"root","children":[]}],"componentForm":[{"type":"form-field","uid":"form-input","title":"Input","translate":true,"status":{"collapsed":false},"iconColor":"formField","uuid":"7d41939f-46c1-44da-a7c2-c660a9656caf","parentUid":"root","children":[]}],"mapper":{"720274d4-94ac-4515-a625-0240f697209f":{"settings":{"formDefinition":[{"formKey":"button-settings","children":[{"formKey":"button-interaction","breakpoints":[],"activeFields":[{"name":"buttonText","active":true},{"name":"titleAttribute","active":true},{"name":"type","active":true}]},{"formKey":"button-modifier","breakpoints":[],"activeFields":[{"name":"modifierType","active":true}]},{"formKey":"button-animation","breakpoints":[{"name":"xl"}],"activeFields":[{"name":"animationScope","active":true},{"name":"animationTarget","active":true},{"name":"animationType","active":true},{"name":"animationDuration","active":true}]},{"formKey":"button-style","breakpoints":[],"activeFields":[{"name":"customStyle","active":true}]}]}],"selectorType":"topLevel","form":null,"items":[],"title":"Default"}},"7d41939f-46c1-44da-a7c2-c660a9656caf":{}},"model":{"720274d4-94ac-4515-a625-0240f697209f":{"settings":{"title":"Button","customStyle":[{}],"type":"interaction","modifier":[{"interactionScope":"document"}],"styles":{"xl":{"buttonAnimation":[{"animationType":"none"}]}},"buttonText":"[field.7d41939f-46c1-44da-a7c2-c660a9656caf]"}},"7d41939f-46c1-44da-a7c2-c660a9656caf":{"settings":{"title":"Text","schema":{"type":"string","escape":true},"machineName":"sb-text","tooltipPlacement":"auto right"}}},"previewModel":{"7d41939f-46c1-44da-a7c2-c660a9656caf":{},"720274d4-94ac-4515-a625-0240f697209f":{"settings":{"title":"Button","type":"interaction","modifier":[{"interactionScope":"document"}],"styles":{"xl":{"buttonAnimation":[{"animationType":"none"}]}}}}},"variableFields":{"7d41939f-46c1-44da-a7c2-c660a9656caf":[],"720274d4-94ac-4515-a625-0240f697209f":["settings.buttonText"]},"disabledNodes":[],"meta":{"fieldHistory":[{"uuid":"7d41939f-46c1-44da-a7c2-c660a9656caf","type":"form-input","machineName":"sb-text"}]}}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0041
+locked: false
+modified: true
+selectable: true
+category: cpt_cat_uncategorized
+preview_image: ''
+has_quick_edit: null
+entity_type_access: {  }
+bundle_access: {  }
+twig_template: component--cohesion-cpt-simple-button
+weight: 0

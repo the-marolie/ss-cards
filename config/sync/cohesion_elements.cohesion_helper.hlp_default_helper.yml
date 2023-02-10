@@ -1,0 +1,19 @@
+uuid: cbd153e7-f8b0-45cf-9984-fbc66069ccf8
+langcode: en
+status: true
+dependencies:
+  config:
+    - cohesion_elements.cohesion_helper_category.hlp_cat_custom_helpers
+label: 'Default Helper'
+id: hlp_default_helper
+json_values: '{"canvas":[{"type":"container","uid":"container","title":"Container","status":{"collapsed":false},"iconColor":"layout","uuid":"c212256a-ef6d-4054-bf5c-f68890c342b9","parentUid":"root","children":[{"type":"container","uid":"row-for-columns","title":"Row for columns","status":{"collapsed":false},"iconColor":"layout","uuid":"d8f39aa1-4972-4248-8e55-b977aeff15c8","parentUid":"container","children":[{"type":"container","uid":"column","title":"Column","status":{"collapsed":false},"iconColor":"layout","uuid":"241fa439-09eb-4352-a499-55ad0739ca22","parentUid":"row-for-columns","children":[]},{"type":"container","uid":"column","title":"Column","status":{"collapsed":false},"iconColor":"layout","uuid":"edc51303-579b-4b33-85b0-a919bafac8c6","parentUid":"row-for-columns","children":[]},{"type":"container","uid":"column","title":"Column","status":{"collapsed":false},"iconColor":"layout","uuid":"c8f5e033-6fe7-4a5f-9933-cbee889063b4","parentUid":"row-for-columns","children":[]}]}]}],"mapper":{"c212256a-ef6d-4054-bf5c-f68890c342b9":{},"d8f39aa1-4972-4248-8e55-b977aeff15c8":{},"c8f5e033-6fe7-4a5f-9933-cbee889063b4":{},"edc51303-579b-4b33-85b0-a919bafac8c6":{},"241fa439-09eb-4352-a499-55ad0739ca22":{}},"model":{"c212256a-ef6d-4054-bf5c-f68890c342b9":{"settings":{"width":"fluid"}},"d8f39aa1-4972-4248-8e55-b977aeff15c8":{"settings":{"styles":{"xl":{"bleed":"retain","targetContainer":"inner","overflow":"visible","jsSettings":{"matchHeightRow":{"targetElement":"none"}}}}}},"241fa439-09eb-4352-a499-55ad0739ca22":{"settings":{"styles":{"xl":{"col":-2,"pull":-1,"push":-1,"offset":-1}}}},"edc51303-579b-4b33-85b0-a919bafac8c6":{"settings":{"styles":{"xl":{"col":-2,"pull":-1,"push":-1,"offset":-1}}}},"c8f5e033-6fe7-4a5f-9933-cbee889063b4":{"settings":{"styles":{"xl":{"col":-2,"pull":-1,"push":-1,"offset":-1}}}}},"previewModel":{},"variableFields":{},"meta":{"fieldHistory":[]}}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0041
+locked: false
+modified: true
+selectable: true
+category: hlp_cat_custom_helpers
+preview_image: ''
+entity_type_access: {  }
+bundle_access: {  }
+weight: 0

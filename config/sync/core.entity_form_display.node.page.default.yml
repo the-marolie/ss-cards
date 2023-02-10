@@ -8,6 +8,7 @@ dependencies:
   module:
     - cohesion_elements
     - path
+    - sitestudio_default_helper
 _core:
   default_config_hash: SfpLhPExzvR0MgFp0Wp7CrmgEnhcqQ-fXIWFhbf4ue0
 id: node.page.default
@@ -26,7 +27,9 @@ content:
     weight: 121
     region: content
     settings: {  }
-    third_party_settings: {  }
+    third_party_settings:
+      sitestudio_default_helper:
+        default_helper: hlp_customer_helper
   path:
     type: path
     weight: 30
