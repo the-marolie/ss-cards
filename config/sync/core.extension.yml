@@ -65,7 +65,9 @@ module:
   serialization: 0
   shortcut: 0
   sitestudio_default_helper: 0
+  sitestudio_lazyload_youtube: 0
   sitestudio_page_builder: 0
+  ss_hero_banner: 0
   system: 0
   taxonomy: 0
   text: 0

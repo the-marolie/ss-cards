@@ -1,0 +1,29 @@
+uuid: 369bda00-4da5-457b-b1fe-57b0f410c5d1
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_form_mode.media.media_library
+    - field.field.media.youtube_video.field_media_oembed_video_1
+    - field.field.media.youtube_video.field_ss_lazyload_yt_thumbnail
+    - media.type.youtube_video
+id: media.youtube_video.media_library
+targetEntityType: media
+bundle: youtube_video
+mode: media_library
+content:
+  name:
+    type: string_textfield
+    weight: 0
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+hidden:
+  created: true
+  field_media_oembed_video_1: true
+  field_ss_lazyload_yt_thumbnail: true
+  path: true
+  status: true
+  uid: true

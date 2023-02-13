@@ -1,0 +1,18 @@
+uuid: 59da6c88-c5d8-4aa0-a568-d3b2a534feba
+langcode: en
+status: false
+dependencies: {  }
+label: 'Full content (Media, Youtube video)'
+id: media_youtube_video_full
+json_values: '{"canvas":[],"mapper":null,"model":[]}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0041
+modified: false
+selectable: false
+custom: false
+twig_template: null
+default: false
+entity_type: media
+bundle: youtube_video
+view_mode: full
+master_template: ''

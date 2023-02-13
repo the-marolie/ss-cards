@@ -1,0 +1,68 @@
+uuid: dc2c8f81-5295-437d-8c42-f1f7667d2eb9
+langcode: en
+status: true
+dependencies:
+  config:
+    - cohesion_elements.cohesion_component_category.cpt_cat_hero_components
+label: 'Custom Hero Banner Component'
+id: cpt_custom_hero_component_0
+json_values: |
+  {
+      "canvas": [
+          {
+              "uid": "hero_banner",
+              "type": "component",
+              "title": "Custom Hero Banner",
+              "weight": 0,
+              "enabled": true,
+              "category": "category-1",
+              "componentId": "hero_banner",
+              "componentType": "misc",
+              "isCustomComponent": true,
+              "iconColor": "custom",
+              "uuid": "75c2f8ff-49fb-47a1-8b85-1946300e63a8",
+              "parentUid": "root",
+              "status": {},
+              "children": []
+          }
+      ],
+      "componentForm": [],
+      "mapper": {
+          "75c2f8ff-49fb-47a1-8b85-1946300e63a8": {}
+      },
+      "model": {
+          "75c2f8ff-49fb-47a1-8b85-1946300e63a8": {
+              "07e25d38-8c92-4736-a6e9-31717dc57ffa": "ABCD",
+              "2fb297a8-1c81-4430-8fca-77e15f518a99": {
+                  "textFormat": "basic_html",
+                  "text": "<p>Some text description<\/p>"
+              },
+              "bb20345d-98ac-45e7-b20d-d159539e1450": "[media-reference:media:6f227f0b-53fb-4be8-bcf9-d9e7e729d9d2]",
+              "settings": {
+                  "title": "Custom Hero Banner"
+              }
+          }
+      },
+      "previewModel": {
+          "75c2f8ff-49fb-47a1-8b85-1946300e63a8": {}
+      },
+      "variableFields": {
+          "75c2f8ff-49fb-47a1-8b85-1946300e63a8": []
+      },
+      "disabledNodes": [],
+      "meta": {
+          "fieldHistory": []
+      }
+  }
+json_mapper: '{}'
+last_entity_update: entityupdate_0041
+locked: false
+modified: true
+selectable: true
+category: cpt_cat_hero_components
+preview_image: ''
+has_quick_edit: null
+entity_type_access: {  }
+bundle_access: {  }
+twig_template: component--cohesion-cpt-custom-hero-component-0
+weight: 0

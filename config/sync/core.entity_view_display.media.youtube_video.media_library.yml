@@ -1,0 +1,35 @@
+uuid: faa33fdb-be2e-4646-9935-33c9111617f4
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.media.media_library
+    - field.field.media.youtube_video.field_media_oembed_video_1
+    - field.field.media.youtube_video.field_ss_lazyload_yt_thumbnail
+    - image.style.medium
+    - media.type.youtube_video
+  module:
+    - image
+id: media.youtube_video.media_library
+targetEntityType: media
+bundle: youtube_video
+mode: media_library
+content:
+  thumbnail:
+    type: image
+    label: hidden
+    settings:
+      image_link: ''
+      image_style: medium
+      image_loading:
+        attribute: lazy
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden:
+  created: true
+  field_media_oembed_video_1: true
+  field_ss_lazyload_yt_thumbnail: true
+  name: true
+  search_api_excerpt: true
+  uid: true

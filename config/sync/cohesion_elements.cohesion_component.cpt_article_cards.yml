@@ -1,0 +1,22 @@
+uuid: 5c5888ac-955b-4fa1-af15-5583c866bd51
+langcode: en
+status: true
+dependencies:
+  config:
+    - cohesion_elements.cohesion_component_category.cpt_cat_custom_components
+    - views.view.articles_landing
+label: 'Article Cards'
+id: cpt_article_cards
+json_values: '{"canvas":[{"type":"container","uid":"container","title":"Container","status":{"collapsed":false},"iconColor":"layout","uuid":"bca0f433-6e76-4ad1-90fc-01b7ca1a4777","parentUid":"root","children":[{"type":"container","uid":"column","title":"Column","status":{"collapsed":false},"iconColor":"layout","uuid":"d5d7d5dd-6a6f-4de3-8e7b-f6d676ff3963","parentUid":"container","children":[{"type":"item","uid":"drupal-block","title":"Block","status":{"collapsed":true},"iconColor":"drupal","uuid":"c7959ba5-b95a-4d55-855a-058436e541e7","parentUid":"column","children":[]}]}]}],"componentForm":[{"type":"form-field","uid":"form-select","title":"Select","translate":false,"status":{"collapsed":false},"iconColor":"formField","uuid":"ee9231b5-ec75-4b4b-ab0a-fea2b4d44194","parentUid":"root","children":[]}],"mapper":{"bca0f433-6e76-4ad1-90fc-01b7ca1a4777":{},"d5d7d5dd-6a6f-4de3-8e7b-f6d676ff3963":{},"c7959ba5-b95a-4d55-855a-058436e541e7":{"settings":{"formDefinition":[{"formKey":"block-settings","children":[{"formKey":"block-drupal-block","breakpoints":[],"activeFields":[{"name":"block","active":true}]},{"formKey":"block-style","breakpoints":[],"activeFields":[{"name":"customStyle","active":true}]}]}],"selectorType":"topLevel","form":null,"items":[],"title":"Default"}},"ee9231b5-ec75-4b4b-ab0a-fea2b4d44194":{}},"model":{"bca0f433-6e76-4ad1-90fc-01b7ca1a4777":{"settings":{"width":"fluid"}},"d5d7d5dd-6a6f-4de3-8e7b-f6d676ff3963":{"settings":{"styles":{"xl":{"col":-2,"pull":-1,"push":-1,"offset":-1}}}},"c7959ba5-b95a-4d55-855a-058436e541e7":{"settings":{"title":"Block","customStyle":[{}],"theme":"cohesion_child_theme","block":"cohesion_child_theme_views_block__articles_landing_block_1"}},"ee9231b5-ec75-4b4b-ab0a-fea2b4d44194":{"settings":{"type":"cohSelect","title":"Columns","selectType":"custom","schema":{"type":"string"},"machineName":"ac-columns","options":[{"label":"3","value":"33"},{"label":"4","value":"25"}],"tooltipPlacement":"auto right"}}},"previewModel":{"c7959ba5-b95a-4d55-855a-058436e541e7":{},"ee9231b5-ec75-4b4b-ab0a-fea2b4d44194":{}},"variableFields":{"c7959ba5-b95a-4d55-855a-058436e541e7":[],"ee9231b5-ec75-4b4b-ab0a-fea2b4d44194":[]},"disabledNodes":[],"meta":{"fieldHistory":[{"uuid":"ee9231b5-ec75-4b4b-ab0a-fea2b4d44194","type":"form-select","machineName":"ac-columns"}]}}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0041
+locked: false
+modified: true
+selectable: true
+category: cpt_cat_custom_components
+preview_image: ''
+has_quick_edit: null
+entity_type_access: {  }
+bundle_access: {  }
+twig_template: component--cohesion-cpt-article-cards
+weight: 0

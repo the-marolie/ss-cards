@@ -1,0 +1,23 @@
+uuid: 1a9dbbcb-d212-4bd5-9227-b889dd1390ac
+langcode: en
+status: true
+dependencies: {  }
+id: pack_custom_hero_banner_componen
+label: 'Custom Hero Banner Component'
+description: ''
+excluded_entity_types: '[]'
+settings: |
+  {
+      "dc2c8f81-5295-437d-8c42-f1f7667d2eb9": {
+          "type": "cohesion_component",
+          "items": {
+              "dc2c8f81-5295-437d-8c42-f1f7667d2eb9": {
+                  "type": "cohesion_component"
+              },
+              "fc843933-89c7-46de-ba23-cba9b6f21275": {
+                  "type": "cohesion_component_category"
+              }
+          },
+          "checked": true
+      }
+  }
